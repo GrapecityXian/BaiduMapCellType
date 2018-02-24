@@ -1,0 +1,22 @@
+﻿{
+  "assembly": [
+    "BDMapCellType.dll"
+  ],
+  "css": [
+   
+  ],
+  "javascript": [
+
+    "Resources\\api_map_baidu.js",   
+    "Resources\\DistanceTool_min.js",
+    "Resources\\BDMapCellType.js"
+
+  ],
+
+  "image": "Resources\\PluginLogo.png",
+  "description": "地图上定位与测距",
+  "name": "地图(百度)",
+  "pluginType": "cellType",
+  "guid": "fec2654b-cf89-46b5-94aa-5e69c94d89e0",
+  "version": "1.0.0.0"
+}
